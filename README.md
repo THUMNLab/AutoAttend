@@ -88,4 +88,5 @@ If you find our work helpful, please cite our paper as following:
   publisher =    {PMLR},
   pdf = 	 {http://proceedings.mlr.press/v139/guan21a/guan21a.pdf},
   url = 	 {http://proceedings.mlr.press/v139/guan21a.html}
+}
 ```
